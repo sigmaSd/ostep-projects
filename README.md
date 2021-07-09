@@ -1,5 +1,10 @@
-
-# Projects for an Operating Systems Class
+# Fork
+- Write some projects in Rust
+  - https://github.com/sigmaSd/ostep-projects/blob/master/initial-utilities/wcat/wcat.rs
+  - https://github.com/sigmaSd/ostep-projects/blob/master/initial-utilities/wgrep/wgrep.rs
+  - https://github.com/sigmaSd/ostep-projects/blob/master/initial-utilities/wzip/wzip.rs
+  - https://github.com/sigmaSd/ostep-projects/blob/master/initial-utilities/wunzip/wunzip.rs
+## Projects for an Operating Systems Class
 
 This repository holds a number of projects that can be used in an operating
 systems class aimed at upper-level undergraduates and (in some cases)
